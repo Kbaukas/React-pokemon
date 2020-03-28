@@ -30,7 +30,7 @@
   transition: all ease-in 0.7s;
 }
 .imgPokemon:hover {
-  transform: scale(10);
+  transform: scale(25);
 
   opacity: 0.9;
 }
