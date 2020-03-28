@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-pokemon/static/css/main.3ea939f7.chunk.css",
+    "main.css": "/React-pokemon/static/css/main.56f36ffe.chunk.css",
     "main.js": "/React-pokemon/static/js/main.62afebfc.chunk.js",
     "main.js.map": "/React-pokemon/static/js/main.62afebfc.chunk.js.map",
     "runtime-main.js": "/React-pokemon/static/js/runtime-main.325beb0b.js",
@@ -8,16 +8,16 @@
     "static/js/2.8fb1988c.chunk.js": "/React-pokemon/static/js/2.8fb1988c.chunk.js",
     "static/js/2.8fb1988c.chunk.js.map": "/React-pokemon/static/js/2.8fb1988c.chunk.js.map",
     "index.html": "/React-pokemon/index.html",
-    "precache-manifest.846734b6f987a7f61db1bd5cfa362f2e.js": "/React-pokemon/precache-manifest.846734b6f987a7f61db1bd5cfa362f2e.js",
+    "precache-manifest.59bece31986d360e7c2b8ec0f1a3a24a.js": "/React-pokemon/precache-manifest.59bece31986d360e7c2b8ec0f1a3a24a.js",
     "service-worker.js": "/React-pokemon/service-worker.js",
-    "static/css/main.3ea939f7.chunk.css.map": "/React-pokemon/static/css/main.3ea939f7.chunk.css.map",
+    "static/css/main.56f36ffe.chunk.css.map": "/React-pokemon/static/css/main.56f36ffe.chunk.css.map",
     "static/js/2.8fb1988c.chunk.js.LICENSE.txt": "/React-pokemon/static/js/2.8fb1988c.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/React-pokemon/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.325beb0b.js",
     "static/js/2.8fb1988c.chunk.js",
-    "static/css/main.3ea939f7.chunk.css",
+    "static/css/main.56f36ffe.chunk.css",
     "static/js/main.62afebfc.chunk.js"
   ]
 }
